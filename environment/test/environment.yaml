@@ -1,0 +1,3 @@
+environment: test 
+storage_account_tier: Standard
+storage_account_replication: LRS
